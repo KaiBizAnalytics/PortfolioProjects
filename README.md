@@ -1,4 +1,4 @@
-#### Kai Li's Data Analysis Portfolio Project Repository
+# Kai Li's Data Analysis Portfolio Project Repository
 
 Welcome to my Data Analysis Portfolio! This repository is a curated collection of my work as a data analyst, showcasing a variety of skills and techniques across different tools and platforms. Inside, you'll find a comprehensive selection of projects and tasks I've undertaken, including:
 

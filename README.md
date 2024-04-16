@@ -5,6 +5,7 @@ Welcome to my Data Analysis Portfolio! This repository is a curated collection o
 * **SQL Queries for Data Exploration**: Dive into detailed analyses of Covid data using T-SQL on Microsoft SQL Server. These queries are designed to uncover insights through data exploration and aggregation
 * **Data Cleaning Queries**: Enhanced the Nashville Housing dataset using T-SQL by refining data types, removing duplicates, employing window functions, and performing substring operations. 
 * **Data Cleaning and Visualizations in Excel**:  This project involved meticulous data cleaning from a bike shop, where I structured raw data, built pivot tables, and designed a comprehensive dashboard in Excel. The dashboard utilizes slicers to dynamically visualize customer demographics, providing intuitive and interactive insights into customer behavior and trends.
+* **Tableau Interactive Resume**: I crafted an interactive resume using Tableau, showcasing a range of skills including professional timelines, calculated fields, geographic mapping, and skills meters. Additional features include photos in tooltips and data blending, which allow for effective integration of diverse datasets. This project highlights my ability to create engaging, data-driven visualizations.
 * **Tableau Dashboards for Covid data**
 * **Python Data Analysis**
 * **Web Scraping Project**
